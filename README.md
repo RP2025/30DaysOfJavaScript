@@ -1,9 +1,6 @@
 # 30DaysOfJavaScript
 
-## DAY 01
-
->Challenge 1:
->
+## Challenge 1:
 >Write a JavaScript function that reverses a number.
 >
 >Sample Data and output:
