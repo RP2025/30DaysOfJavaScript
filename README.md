@@ -38,4 +38,19 @@
 >
 > Expected Output: true
 >
-> [Tweet 03](https://twitter.com/philomath128/status/1722179625366040616)
+> [Tweet 03](https://twitter.com/philomath128/status/1722540499146514461)
+
+## Challenge 4
+> Write a JavaScript program to find the area of a triangle where three sides are 5, 6, 7.
+>
+> Sample Data and output:
+>
+> Example:
+>
+> side1 = 5;
+> side2 = 6;
+> side3 = 7;
+>
+> Expected Output: 14.696938456699069
+>
+> [Tweet 04](https://twitter.com/philomath128/status/1722540499146514462)
