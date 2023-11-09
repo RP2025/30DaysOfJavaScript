@@ -24,7 +24,7 @@
 >
 > Expected Output: 'The Quick Brown Fox '
 >
-> [Tweet 02](https://twitter.com/philomath128/status/1721588367945781459)
+> [Tweet 02](https://twitter.com/philomath128/status/1721990748848136589)
 
 ## Challenge 3
 > Write a JavaScript program to check whether two given integer values are in the range 50..99 (inclusive). Return true if either of them falls within the range.
@@ -38,7 +38,7 @@
 >
 > Expected Output: true
 >
-> [Tweet 03](https://twitter.com/philomath128/status/1722540499146514461)
+[Tweet 03](https://twitter.com/philomath128/status/1722179625366040616)
 
 ## Challenge 4
 > Write a JavaScript program to find the area of a triangle where three sides are 5, 6, 7.
