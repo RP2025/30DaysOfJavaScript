@@ -55,7 +55,7 @@
 >
 > [Tweet 04](https://twitter.com/philomath128/status/1722540499146514462)
 
-## Challenge 5
-> Write a JavaScript exercise
+## Challenge 5:
+Write a JavaScript exercise to get the filename extension
 
 > [Tweet 05](https://twitter.com/philomath128/status/1723020117142118475)
