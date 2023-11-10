@@ -54,3 +54,8 @@
 > Expected Output: 14.696938456699069
 >
 > [Tweet 04](https://twitter.com/philomath128/status/1722540499146514462)
+
+## Challenge 5
+> Write a JavaScript exercise
+
+> [Tweet 05](https://twitter.com/philomath128/status/1723020117142118475)
