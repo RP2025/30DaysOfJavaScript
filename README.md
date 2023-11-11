@@ -59,3 +59,17 @@
 > Write a JavaScript exercise to get the filename extension
 >
 > [Tweet 05](https://twitter.com/philomath128/status/1723020117142118475)
+
+## Challenge 6
+> Write a JavaScript program to compute the sum of two given integers. If the two values are the same, then return triple their sum.
+>
+> Sample Data and output:
+>
+> Example 1:
+>
+> num1 = 5;
+> num2 = 5;
+>
+> Expected Output: 30
+>
+> [Tweet 06](https://twitter.com/philomath128/status/1723435068809413002)
