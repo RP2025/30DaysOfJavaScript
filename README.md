@@ -73,3 +73,17 @@
 > Expected Output: 30
 >
 > [Tweet 06](https://twitter.com/philomath128/status/1723435068809413002)
+
+## Challenge 7
+> Write a JavaScript program to check a pair of numbers and return true if one of the numbers is 50 or if their sum is 50.
+>
+> Sample Data and output:
+>
+> Example 1:
+>
+> num1 = 50;
+> num2 = 25;
+>
+> Expected Output: true
+>
+> [Tweet 07](https://twitter.com/philomath128/status/1723656041852969351)
