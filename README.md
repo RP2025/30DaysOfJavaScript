@@ -87,3 +87,14 @@
 > Expected Output: true
 >
 > [Tweet 07](https://twitter.com/philomath128/status/1723656041852969351)
+
+## Challenge 8
+> Write a JavaScript function to get all possible subsets with a fixed length (for example 2) combinations in an array.
+>
+> Sample array: [1, 2, 3]
+>
+> Subset length: 2
+>
+> Expected output: [[2, 1], [3, 1], [3, 2], [3, 2, 1]]
+>
+> [Tweet 08](https://twitter.com/philomath128/status/1724012955443032467)
